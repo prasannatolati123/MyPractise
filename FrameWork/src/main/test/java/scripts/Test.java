@@ -4,8 +4,7 @@ public class Test {
 	
 	public void method1() {
 		System.out.println("Added branch");
-		
-		System.out.println(" checking Conflicts ");
+		System.out.println("Added conflict");
 	}
 
 }
